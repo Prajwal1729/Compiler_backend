@@ -1,0 +1,7 @@
+.env
+db.sqlite3
+compiler/__pycache__
+compiler/migrations/__pycache__
+online_compiler/__pycache__
+logs/
+.DS_Store
